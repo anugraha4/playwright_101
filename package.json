@@ -1,0 +1,21 @@
+{
+  "name": "playwright_101",
+  "version": "1.0.0",
+  "description": "git clone repo\r cd playwright_101\r npm init -y\r npm install -D @playwright/test typescript @types/node dotenv\r npx playwright install",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "dotenv": "^18.0.4",
+    "typescript": "^7.0.2"
+  }
+}
